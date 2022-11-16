@@ -1,6 +1,8 @@
 ![anticitizen](https://user-images.githubusercontent.com/60104107/201704081-a7b32799-beb2-4067-82e9-fabe38b4e641.png)
 > ### _**!!!! DO NOT CHANGE THE RESOURCE NAME, OTHERWISE IT WON'T WORK !!!!**_
 
+# To keep up to date with updates, join our discord: https://discord.gg/k4YNwYxE4h
+
 ### WHATS IS IT:
 - [x] Anti Headshot Effect
 - [x] Anti Kill Effect
